@@ -1,5 +1,7 @@
 # mtm6201_final
 
+Challanges I faced was using the bootstraps. I found that there were only specific sizes and areas to place content, and that made placing content in the places I intended to be frustrating. I overcame this challenge by fixing it with css. I also could not figure out to customize colours with bootstrap. I overcame this challenge by using the regular bootstrap colours.  
+
 Workspace Google Icon
 https://fonts.google.com/icons?selected=Material+Symbols+Outlined:home_storage:FILL@0;wght@400;GRAD@0;opsz@24&icon.query=files
 
